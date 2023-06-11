@@ -1,0 +1,6 @@
+obj/
+install/
+*.o
+*.out
+.vscode/
+.MS_Store
